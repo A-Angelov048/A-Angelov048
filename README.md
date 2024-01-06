@@ -1,8 +1,8 @@
 # Hi there, I’m Alexander Angelov 👋
 
 ![visitors](https://komarev.com/ghpvc/?username=A-Angelov048)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://web.telegram.org/a)
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://t.me/A_Alex048)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/A_Alex048)
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/A-Angelov048)
 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
