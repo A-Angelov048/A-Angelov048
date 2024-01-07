@@ -22,7 +22,7 @@ I'm Alex from Bulgaria, and I'm currently studying the full path of JavaScript a
 
 ### GitHub Stats
 
-| <img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&count_private=true" /> | <img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&layout=compact" /> |
+| <img height="160em" img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&count_private=true" /> | <img height="160em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&layout=compact" /> |
 | ------------- | ------------- |
 
 <!--
