@@ -22,10 +22,10 @@ I'm Alex from Bulgaria, and I'm currently studying the full path of JavaScript a
 
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Angelov048&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Angelov048&layout=compact&hide_border=true" /> |
+| <img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&count_private=true" /> | <img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Angelov048&theme=default&show_icons=true&hide_border=true&layout=compact" /> |
 | ------------- | ------------- |
 
-<!---
+<!--
 A-Angelov048/A-Angelov048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
