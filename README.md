@@ -11,7 +11,7 @@ I'm Alex from Bulgaria, and I'm currently studying the full JavaScript path at �
 
 <br>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="380" height="250" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="400" height="250" />
 
 - 🔭 I’m currently working on my project Furniture-shop!
 - 🌱 I’m currently learning something new.
