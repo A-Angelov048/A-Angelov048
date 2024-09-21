@@ -7,18 +7,18 @@
 
 ## Glad to see you here!
 
-I'm Alex from Bulgaria, and I'm currently studying the full path of JavaScript at 🎓 Software University. I really like learning JS, and I have an interest in learning other languages like Python, C#, TypeScript, and various frameworks. I also possess skills such as attention to details, teamwork, organization, effective communication, precision, and quick adaptation to new software. My goal is to become a software engineer in the near future, working as a Full Stack Dev, Front-end Dev, or in some aspect of Frontend Development.
+I'm Alex from Bulgaria, and I'm currently studying the full path of JavaScript at 🎓 Software University. I really like learning JS, and I have an interest in learning other languages like Python, C#, TypeScript, and various frameworks. I also bring skills such as attention to detail, teamwork, organization, effective communication, precision, and the ability to quickly adapt to new software. My goal is to become a software engineer in the near future, working as a Full Stack Dev, Front-end Dev, or in some aspect of Frontend Development.
 
 <br>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="400" height="250" />
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Node.JS, ExpressJS, MongoDB and Angular.
+- 🔭 I’m currently working on my project Furniture-shop!
+- 🌱 I’m currently learning something new.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: alexander.angelov123@gmail.com
 - 👀 I’m interested in technologies, cars, sports and etc.
-- ⚡ Cool fact for me — I'm working as a furniture designer. Feel free to ask anything!
+- ⚡ Cool fact for me — I'm working as a furniture constructor. Feel free to ask anything!
 
 ### GitHub Stats
 
