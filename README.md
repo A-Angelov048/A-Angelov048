@@ -19,6 +19,8 @@ I'm Alex from Bulgaria, and I'm currently studying the full JavaScript path at �
 - 📫 How to reach me: alexander.angelov123@gmail.com
 - 👀 I’m interested in technologies, cars, sports and etc.
 - ⚡ Cool fact for me — I'm working as a furniture constructor. Feel free to ask anything!
+  
+<br>
 
 ### GitHub Stats
 
