@@ -7,7 +7,7 @@
 
 ## Glad to see you here!
 
-I'm Alex from Bulgaria, and I'm currently studying the full path of JavaScript at 🎓 Software University. I really like learning JS, and I have an interest in learning other languages like Python, C#, TypeScript, and various frameworks. I also bring skills such as attention to detail, teamwork, organization, effective communication, precision, and the ability to quickly adapt to new software. My goal is to become a software engineer in the near future, working as a Full Stack Dev, Front-end Dev, or in some aspect of Frontend Development.
+I'm Alex from Bulgaria, and I'm currently studying the full JavaScript path at 🎓 Software University. I really enjoy learning JavaScript and am also interested in exploring other languages like Python, C#, and TypeScript, as well as various frameworks. I bring skills such as attention to detail, teamwork, organization, effective communication, precision, and the ability to quickly adapt to new software. My goal is to become a software engineer in the near future, either as a Full Stack Developer, Front-end Developer, or in a role related to Frontend Development.
 
 <br>
 
